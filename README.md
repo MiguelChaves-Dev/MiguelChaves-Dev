@@ -4,7 +4,6 @@
 **`Desenvolvedor Back-End`**
 - 🔭 Hoje trabalho com back-end
 - 🌱 Estudando Python, Json e HTML/CSS
-- 😄 Pronomes: ele/dele
 
 Me chamo Miguel de Carvalho Chaves, tenho 18 anos e sou natural da Paraíba. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na IFPB - Campus Santa Rita.
 
