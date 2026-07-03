@@ -1,7 +1,7 @@
 
 
 # 👾 Miguel Chaves
-**`Desenvolvedor Back-End`**
+**`Desenvolvedor Full-Stack`**
 - 🔭 Hoje trabalho com full-stack
 - 🌱 Estudando Python, Json, HTML/CSS e JavaScript
 
